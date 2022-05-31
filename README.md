@@ -1,2 +1,2 @@
 # jsBook
-Book Keeper built with vanilla JavaScript
+Bookmark Keeper built with vanilla JavaScript
